@@ -8,6 +8,5 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(number)
-  number = gets.strip
   number.to_i
 end
